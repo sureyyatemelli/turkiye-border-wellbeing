@@ -1,0 +1,20 @@
+{
+    "main_grid_resolution": "1000 m x 1000 m",
+    "main_inclusion_rule": "Grid centroid located within the study-area boundary",
+    "main_grid_count": 19001,
+    "robustness_rule": "At least 50 percent of grid-cell area located within the study area",
+    "robustness_grid_count": 18994,
+    "difference_in_grid_count": 7,
+    "projected_crs": "EPSG:32635",
+    "geographic_crs": "EPSG:4326",
+    "study_provinces": [
+        "Edirne",
+        "Kirklareli",
+        "Tekirdag"
+    ],
+    "province_grid_counts": {
+        "Edirne": 6193,
+        "Kirklareli": 6575,
+        "Tekirdag": 6233
+    }
+}
