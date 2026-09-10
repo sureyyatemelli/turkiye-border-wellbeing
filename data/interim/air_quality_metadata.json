@@ -1,0 +1,14 @@
+{
+    "dataset": "MODIS/061/MCD19A2_GRANULES",
+    "period": "2014-2025",
+    "variable": "Optical_Depth_055",
+    "derived_variable": "aod_055",
+    "interpretation": "Higher AOD indicates greater atmospheric aerosol loading and worse air quality",
+    "scale_factor": 0.001,
+    "source_spatial_resolution": "1 km",
+    "grid_resolution": "1 km x 1 km",
+    "annual_aggregation": "Mean of valid daily AOD observations",
+    "grid_count": 19001,
+    "panel_observations": 228012,
+    "wellbeing_direction": "Reverse sign after standardization so that higher values indicate better air quality"
+}
