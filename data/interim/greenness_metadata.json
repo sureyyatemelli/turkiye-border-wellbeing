@@ -1,0 +1,16 @@
+{
+    "dataset": "MODIS/061/MOD13Q1",
+    "period": "2014-2025",
+    "temporal_resolution_source": "16-day",
+    "spatial_resolution_source": "250 m",
+    "grid_resolution": "1 km x 1 km",
+    "variables": [
+        "NDVI",
+        "EVI"
+    ],
+    "scale_factor": 0.0001,
+    "quality_filter": "DetailedQA bits 0-1 equal to 0",
+    "annual_aggregation": "Mean of valid 16-day observations",
+    "grid_count": 19001,
+    "panel_observations": 228012
+}
