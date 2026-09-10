@@ -1,0 +1,20 @@
+{
+    "dataset": "MODIS/061/MOD11A2",
+    "period": "2014-2025",
+    "source_temporal_resolution": "8-day",
+    "source_spatial_resolution": "1 km",
+    "grid_resolution": "1 km x 1 km",
+    "variables": [
+        "annual_lst_day_c",
+        "annual_lst_night_c",
+        "summer_lst_day_c",
+        "summer_lst_night_c"
+    ],
+    "units": "degrees Celsius",
+    "scale_factor_original": 0.02,
+    "quality_filter": "QC bits 0-1 <= 1",
+    "annual_aggregation": "Mean of valid MOD11A2 observations",
+    "summer_definition": "June-August",
+    "grid_count": 19001,
+    "panel_observations": 228012
+}
