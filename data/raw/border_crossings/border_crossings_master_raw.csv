@@ -1,0 +1,6 @@
+﻿gate_id,gate_name,border_country,province,latitude,longitude,coordinate_source
+TR_BG_KAPIKULE,Kapikule,Bulgaria,Edirne,41.71475,26.3628,Apple Maps / border crossing station
+TR_BG_HAMZABEYLI,Hamzabeyli,Bulgaria,Edirne,41.95785,26.61121,Apple Maps / border crossing station
+TR_BG_DEREKOY,Derekoy,Bulgaria,Kirklareli,41.96764,27.45913,Apple Maps / border crossing station
+TR_GR_PAZARKULE,Pazarkule,Greece,Edirne,41.65459,26.49105,Apple Maps / border crossing station
+TR_GR_IPSALA,Ipsala,Greece,Edirne,40.93114,26.33239,Apple Maps / border crossing station

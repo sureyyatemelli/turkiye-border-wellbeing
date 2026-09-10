@@ -1,0 +1,14 @@
+{
+    "measure": "Euclidean distance from each 1 km grid centroid to the nearest international border crossing",
+    "distance_unit": "kilometres",
+    "crs_used_for_distance": "EPSG:32635",
+    "border_crossings": [
+        "Kapikule",
+        "Hamzabeyli",
+        "Derekoy",
+        "Pazarkule",
+        "Ipsala"
+    ],
+    "main_grid_count": 19001,
+    "note": "Euclidean distance is a baseline accessibility measure. Road-network accessibility will be constructed separately."
+}
