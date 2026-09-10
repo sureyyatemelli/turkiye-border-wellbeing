@@ -1,0 +1,19 @@
+{
+    "dataset": "JRC/GHSL/P2023A/GHS_BUILT_S",
+    "main_band": "built_surface",
+    "observed_epochs": [
+        2015,
+        2020,
+        2025
+    ],
+    "analysis_period": "2014-2025",
+    "source_spatial_resolution": "100 m",
+    "analysis_grid": "1 km x 1 km",
+    "main_variable": "built_share",
+    "definition": "Share of each 1 km grid cell covered by GHSL built-up surface",
+    "annualization": "Linear interpolation between the 2015, 2020 and 2025 GHSL epochs",
+    "year_2014": "Assigned the 2015 GHSL value; no extrapolated trend imposed before 2015",
+    "important_note": "Values for non-epoch years are interpolated estimates and are not independent annual satellite observations",
+    "grid_count": 19001,
+    "panel_observations": 228012
+}
