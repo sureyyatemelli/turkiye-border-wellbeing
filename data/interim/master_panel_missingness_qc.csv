@@ -1,0 +1,12 @@
+variable,missing,missing_pct
+viirs_avg_rad,0,0.0
+ln_viirs,0,0.0
+ndvi,0,0.0
+evi,0,0.0
+annual_lst_day_c,240,0.1052576180201042
+annual_lst_night_c,250,0.10964335210427521
+summer_lst_day_c,240,0.1052576180201042
+summer_lst_night_c,36605,16.053979615107977
+aod_055,0,0.0
+built_share,0,0.0
+euclidean_distance_km,0,0.0
